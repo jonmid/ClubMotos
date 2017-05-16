@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_search"
+        icon="@drawable/buscar"
+        title="@string/str_tab_search"
+        barColorWhenSelected="@color/colorPrimary"/>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/traffic_light_filled_50"
+        title="@string/str_tab_home"
+        barColorWhenSelected="@color/colorPrimary"/>
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/perfil"
+        title="@string/str_tab_profile"
+        barColorWhenSelected="@color/colorPrimary"/>
+</tabs>

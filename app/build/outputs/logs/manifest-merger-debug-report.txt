@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\software\.android\build-cache\251fb33af1905f0c1d4c20f3622b783ffbd99380\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\software\.android\build-cache\96be168973cba0a912f77029a3e7548cba8177b0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\software\.android\build-cache\cb07c3a0598f32375c50d27530e3dafad633f8f2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\software\.android\build-cache\8a4b2ee0103369ff25c6cdd9fc094d0a513342ef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\software\.android\build-cache\3c26f97517bae3327f4ce3a02fe36b5fc2be2356\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\software\.android\build-cache\8df94cd5206c3123d26ea31f15b655f1e9bf207f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\software\.android\build-cache\4e853df542bf51ba8252e66b27c56957c529fdd2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\software\.android\build-cache\98326236c2e6f424aa0af62916e1895ee061842a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\software\.android\build-cache\41f01d92e6daac641fcf689c23171a90fe3ee30a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\software\.android\build-cache\f7e217a50090396a9df9b76cd0a6dcd5aadc0467\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\software\.android\build-cache\dc9bfff1349e7e6b3ff0adf23dc397f1e0896a6d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\software\.android\build-cache\92025a8754b4757a8d0656e9afc201b0ad18ac2e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\software\.android\build-cache\74f2c42191a3b2f20b9530291efd4607903fec06\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:11:9-40
+activity#i005213com.motoclima.LoginActivity
+ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:12:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:16:27-74
+activity#i005213com.motoclima.Views.CreateAccountActivity
+ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:parentActivityName
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:20:13-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:22:13-24:50
+	android:value
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:24:17-47
+	android:name
+		ADDED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml:23:17-63
+uses-sdk
+INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\software\.android\build-cache\251fb33af1905f0c1d4c20f3622b783ffbd99380\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\software\.android\build-cache\96be168973cba0a912f77029a3e7548cba8177b0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\software\.android\build-cache\3d318352225daffb7a890abf6b27c9bc0f0a1cc8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\software\.android\build-cache\cb07c3a0598f32375c50d27530e3dafad633f8f2\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\software\.android\build-cache\8a4b2ee0103369ff25c6cdd9fc094d0a513342ef\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\software\.android\build-cache\3c26f97517bae3327f4ce3a02fe36b5fc2be2356\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\software\.android\build-cache\8df94cd5206c3123d26ea31f15b655f1e9bf207f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\software\.android\build-cache\254ce7603d4cae10d712a6475b17165afda7bd08\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\software\.android\build-cache\4e853df542bf51ba8252e66b27c56957c529fdd2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\software\.android\build-cache\98326236c2e6f424aa0af62916e1895ee061842a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\software\.android\build-cache\41f01d92e6daac641fcf689c23171a90fe3ee30a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\software\.android\build-cache\f7e217a50090396a9df9b76cd0a6dcd5aadc0467\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\software\.android\build-cache\dc9bfff1349e7e6b3ff0adf23dc397f1e0896a6d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\software\.android\build-cache\92025a8754b4757a8d0656e9afc201b0ad18ac2e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\software\.android\build-cache\74f2c42191a3b2f20b9530291efd4607903fec06\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\software\.android\build-cache\cb07c3a0598f32375c50d27530e3dafad633f8f2\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\software\Desktop\Motoclima\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\software\.android\build-cache\96be168973cba0a912f77029a3e7548cba8177b0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\software\.android\build-cache\cb07c3a0598f32375c50d27530e3dafad633f8f2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\software\.android\build-cache\8a4b2ee0103369ff25c6cdd9fc094d0a513342ef\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\software\.android\build-cache\3c26f97517bae3327f4ce3a02fe36b5fc2be2356\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\software\.android\build-cache\8df94cd5206c3123d26ea31f15b655f1e9bf207f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\software\.android\build-cache\254ce7603d4cae10d712a6475b17165afda7bd08\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\software\.android\build-cache\4e853df542bf51ba8252e66b27c56957c529fdd2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\software\.android\build-cache\98326236c2e6f424aa0af62916e1895ee061842a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\software\.android\build-cache\41f01d92e6daac641fcf689c23171a90fe3ee30a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\software\.android\build-cache\f7e217a50090396a9df9b76cd0a6dcd5aadc0467\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\software\.android\build-cache\dc9bfff1349e7e6b3ff0adf23dc397f1e0896a6d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\software\.android\build-cache\92025a8754b4757a8d0656e9afc201b0ad18ac2e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\software\.android\build-cache\74f2c42191a3b2f20b9530291efd4607903fec06\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\software\.android\build-cache\96be168973cba0a912f77029a3e7548cba8177b0\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\software\.android\build-cache\96be168973cba0a912f77029a3e7548cba8177b0\output\AndroidManifest.xml:23:9-47
